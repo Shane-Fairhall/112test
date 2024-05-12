@@ -3,6 +3,7 @@ comment0.target=RevArray
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ RevArray\ here.\r\n\r\n\ Shane\ Fairhall\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
 comment1.params=list
 comment1.target=java.lang.String[]\ reverseArray(java.lang.String[])
+comment1.text=\r\n\ reverseArray\ takes\ an\ array\ and\ rearranges\ its\ contents\r\n\ Accepts\ a\ string\ array\ as\ an\ argument\r\n\ Returns\ a\ string\ array\r\n\r\n\ Shane\ Fairhall\r\n\ updated\ 12/05/24\r\n
 comment2.params=args
 comment2.target=void\ main(java.lang.String[])
 numComments=3
